@@ -36,7 +36,7 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VelMc&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![VelMC's GitHub stats](https://github-readme-stats.vercel.app/api?username=VelMc&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br />
